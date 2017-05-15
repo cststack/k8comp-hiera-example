@@ -1,9 +1,0 @@
----
-
-kind_replication:
-  kind: ReplicationController
-  apiVersion: v1
-
-kind_service:
-  kind: Service
-  apiVersion: v1
